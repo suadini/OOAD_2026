@@ -238,3 +238,9 @@ Exiting.
 | Writer laps slow subscriber | Subscriber #2 skips "alpha" and reads "delta" — overwrite is silent |
 | `info` after mixed progress | Each subscriber shows its own distinct read head |
 | `init` mid-session | Buffer and all subscribers are discarded; clean slate |
+
+## Author
+
+Suad Gafarli  
+CSCI-3612: Object Oriented Analysis and Design  
+March 4, 2026
