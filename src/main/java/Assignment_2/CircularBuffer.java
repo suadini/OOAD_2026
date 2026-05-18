@@ -1,4 +1,4 @@
-package OO.Assignment_2B;
+package Assignment_2;
 
 import java.util.concurrent.atomic.AtomicLong;
 
